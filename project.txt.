@@ -1,3 +1,14 @@
+
+
+GITHUB IS CREATE REPOSITORY,CREATE BRANCHES AND FORK ,ORGNIZATION
+
+
+
+
+
+
+
+
 Jenkins "code" primarily refers to the Jenkins Pipeline, which allows users to define the entire Continuous Integration/Continuous Deployment (CI/CD) process as code in a text file called a Jenkinsfile. This file is stored and versioned in a source code repository alongside the application code itself. 
 Jenkins Pipeline as Code
 Using "Pipeline as Code" offers several advantages:
