@@ -1,0 +1,14 @@
+Code Explained
+public class Main: Every Java program must have a class, and the name of the class must match the filename (in this case, Main.java). The public keyword means this class is accessible from anywhere.
+public static void main(String[] args): This is the main method, the entry point for any Java program.
+public makes it accessible.
+static allows the method to be run without creating an instance (object) of the class.
+void indicates that the method does not return a value.
+main is the name of the method.
+(String[] args) accepts command-line arguments as an array of strings.
+System.out.println("Hello World");: This line prints the text "Hello World" to the standard output (the console).
+Running Java Code
+To run a Java program, you typically follow these steps using the command line:
+Save the code above in a file named Main.java.
+Compile the source code into bytecode using the Java compiler (javac):
+bash
