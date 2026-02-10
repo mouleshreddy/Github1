@@ -1,0 +1,6 @@
+Jenkins "code" primarily refers to the Jenkins Pipeline, which allows users to define the entire Continuous Integration/Continuous Deployment (CI/CD) process as code in a text file called a Jenkinsfile. This file is stored and versioned in a source code repository alongside the application code itself. 
+Jenkins Pipeline as Code
+Using "Pipeline as Code" offers several advantages:
+Version Control: The Jenkinsfile is checked into source control, allowing changes to the pipeline to be tracked, reviewed, and versioned just like other code.
+Automation: It eliminates the need for manual job creation and management through the web UI, enabling Jenkins to automatically discover and manage jobs for multiple branches and repositories.
+Consistency: It provides consistency and repeatability across different software development projects. 
