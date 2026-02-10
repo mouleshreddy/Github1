@@ -1,3 +1,11 @@
+
+
+ GITHUB BRANCHES 
+
+
+
+
+
 Code Explained
 public class Main: Every Java program must have a class, and the name of the class must match the filename (in this case, Main.java). The public keyword means this class is accessible from anywhere.
 public static void main(String[] args): This is the main method, the entry point for any Java program.
